@@ -6,7 +6,7 @@ Projeto acadêmico da disciplina de Administração da Produção, desenvolvido 
 
 ## Acesse o app
 
-[Abrir DemandAI]([ttps://share.streamlit.io](https://demandai-gacgqh65gqqfrxkepajeqx.streamlit.app/#demand-ai))
+[Abrir DemandAI]((https://demandai-gacgqh65gqqfrxkepajeqx.streamlit.app/#demand-ai)
 
 ## O que o app faz
 
