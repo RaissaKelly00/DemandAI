@@ -2,7 +2,7 @@
 
 Aplicativo web de previsão de demanda semanal, desenvolvido em Python com Streamlit, para apoio ao planejamento da produção em pequenas e médias empresas.
 
-Projeto acadêmico da disciplina de Administração da Produção, desenvolvido com apoio de IA generativa (metodologia *vibe coding*).
+Projeto acadêmico, desenvolvido com apoio de IA generativa (metodologia *vibe coding*).
 
 ## Acesse o app
 
@@ -30,21 +30,7 @@ A partir do histórico de demanda semanal de um produto, o DemandAI calcula prev
 - Plotly
 - Scikit-learn
 
-## Como executar localmente
-
-```bash
-git clone https://github.com/RaissaKelly00/DemandAI.git
-cd DemandAI
-pip install -r requirements.txt
-python -m streamlit run app.py
-```
-
-O app abre automaticamente em `http://localhost:8501`.
 
 ## Aviso
 
 As previsões geradas são estimativas baseadas em dados históricos e não substituem a análise de contexto do gestor de produção. Fatores como sazonalidade, promoções e eventos de mercado podem alterar significativamente a demanda real.
-
-## Disciplina
-
-Administração da Produção — Análise e Desenvolvimento de Sistemas (ADS)
